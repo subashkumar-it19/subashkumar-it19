@@ -7,6 +7,7 @@ I'm Subash a Full Stack Web and App Developer . I Spend most of time on coding o
 
 - 👨‍💻 I’m currently pursuing B.tech IT.
 - ⚡ Fun fact: I play games and go to the GYM very often.
+- ✉️ Connect me : subashkumar1359@gmail
 
 #### Technologies
 
