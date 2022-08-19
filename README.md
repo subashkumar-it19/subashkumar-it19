@@ -20,8 +20,8 @@ I'm Subash a Full Stack Web and App Developer . I Spend most of time on coding o
 <!--START_SECTION:waka-->
 
 ```text
-JSON         2 mins          █████████████▒░░░░░░░░░░░   53.49 %
-JavaScript   2 mins          █████████▒░░░░░░░░░░░░░░░   37.72 %
+JSON         1 min           █████████████▒░░░░░░░░░░░   53.49 %
+JavaScript   1 min           █████████▒░░░░░░░░░░░░░░░   37.72 %
 CSS          0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
 XML          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
