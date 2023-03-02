@@ -16,7 +16,7 @@ I'm Subash a Full Stack Web and Cloud Developer . I Spend most of time on coding
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Python Badge](https://img.shields.io/badge/-Python-224cec?style=for-the-badge&labelColor=black&logo=python&logoColor=224cec)](#)[![AWS Badge](https://img.shields.io/badge/-aws-e0ab57?style=for-the-badge&labelColor=black&logo=amazon&logoColor=e0ab57)](#)
 
 
-### Coding status for Weekly:
+### Weekly Coding Status:
 <!--START_SECTION:waka-->
 
 ```text
