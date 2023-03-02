@@ -20,9 +20,9 @@ I'm Subash a Full Stack Web and Cloud Developer . I Spend most of time on coding
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 52 mins   █████████████████████░░░░   83.87 %
-JSON     43 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python   4 hrs 49 mins   ████████████████████▒░░░░   81.55 %
+JSON     1 hr 4 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
