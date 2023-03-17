@@ -20,8 +20,9 @@ I'm Subash a Full Stack Web and Cloud Developer . I Spend most of time on coding
 <!--START_SECTION:waka-->
 
 ```text
-C#           33 mins         █████████████████░░░░░░░░   67.93 %
-JavaScript   15 mins         ████████░░░░░░░░░░░░░░░░░   32.07 %
+JavaScript   15 mins         ████████████████░░░░░░░░░   63.86 %
+C#           8 mins          █████████░░░░░░░░░░░░░░░░   35.90 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
