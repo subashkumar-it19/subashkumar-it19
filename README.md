@@ -19,7 +19,7 @@ I'm Subash a Full Stack Web and Cloud Developer . I Spend most of time on coding
 ### Weekly Coding Status:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
