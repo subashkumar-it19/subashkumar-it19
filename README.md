@@ -1,6 +1,6 @@
 ## HELLO WORLD <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Subash a Full Stack Web Developer in .Net. I spend most of time on coding outstanding projects.
+I'm Subash a Full Stack Web Developer (DotNet). I spend most of time on coding outstanding projects.
 
 - ✉️ Connect me : subashkumar1359@gmail.com
 
