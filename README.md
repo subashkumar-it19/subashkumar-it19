@@ -9,4 +9,8 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 - 🌍 I'm mostly active within the **Microsoft Community**
 - 💬 `ping` me about **design**, **code**, **innovation**, **development**, **problem solving**
 
-  
+#### 🕒 Coding Status
+
+```text
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
