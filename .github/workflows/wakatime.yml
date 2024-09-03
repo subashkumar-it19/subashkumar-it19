@@ -11,7 +11,7 @@ jobs:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3  # Updated to use the latest version
 
       - name: Update README with WakaTime stats
         uses: anmol098/waka-readme-stats@master
