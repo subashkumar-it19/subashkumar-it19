@@ -13,9 +13,5 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
 ```text
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
+
