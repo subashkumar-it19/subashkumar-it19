@@ -2,8 +2,6 @@
 
 #### A Full-Stack DotNet Developer by day ☼ and night ☾
 
-Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
-Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
 - ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.cloud`, `.net`, `.ai`
 - 🌍 I'm mostly active within the **Microsoft Community**
@@ -13,7 +11,6 @@ Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
 ```text
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
