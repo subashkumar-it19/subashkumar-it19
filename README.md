@@ -1,12 +1,12 @@
-## HELLO WORLD <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+### Hello there 👋
 
-I'm Subash a Full Stack Web Developer (DotNet). I spend most of time on coding outstanding projects.
+#### A Full-Stack DotNet Developer by day ☼ and night ☾
 
-- ✉️ Connect me : subashkumar1359@gmail.com
+Full-Stack Developer at [Medicare](https://medicare.pt?ref=github-caneco);<br>
+Host/Organizing [Laracon EU](https://laracon.eu?ref=github-caneco);<br>
 
+- ⚙️ I use daily: `.cs`, `.js`, `.html`, `.css`, `.cloud`, `.net`, `.ai`
+- 🌍 I'm mostly active within the **Microsoft Community**
+- 💬 `ping` me about **design**, **code**, **innovation**, **development**, **problem solving**
 
-
-
-
-
-
+  
