@@ -2,9 +2,14 @@ name: WakaTime Readme Stats
 
 on:
   schedule:
-    # Runs every 24 hours
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Runs every 24 hours
   workflow_dispatch:
+
+permissions:  # Define permissions for the GITHUB_TOKEN
+  contents: write   # Allows read and write access to repository contents
+  issues: write     # Allows read and write access to issues
+  pull-requests: write  # Allows read and write access to pull requests
+  # Add other permissions as needed
 
 jobs:
   update-readme:
@@ -17,4 +22,3 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-    
