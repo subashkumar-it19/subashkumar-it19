@@ -11,12 +11,13 @@
 
 ```text
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-303.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 30 Contributions in the Year 2024
+> 🏆 31 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -24,39 +25,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                28 commits          ███████░░░░░░░░░░░░░░░░░░   27.45 % 
-🌆 Daytime                26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-🌃 Evening                24 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-🌙 Night                  24 commits          ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Tuesday                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-Wednesday                37 commits          █████████░░░░░░░░░░░░░░░░   36.27 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Friday                   12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Saturday                 26 commits          ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-Sunday                   2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in CSS** 
 
 ```text
