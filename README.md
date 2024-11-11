@@ -17,6 +17,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 40 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -50,10 +52,13 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    30 mins             ████████████████████░░░░░   78.32 % 
+SQL                      4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Assembly                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
