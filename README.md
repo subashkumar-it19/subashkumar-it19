@@ -52,10 +52,11 @@ Sunday                   2 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 mins              ████████████████████░░░░░   79.69 % 
+CSHTML                   0 secs              █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
